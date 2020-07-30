@@ -1,6 +1,9 @@
 import Foundation
 import Capacitor
 import UIKit
+import AVFoundation
+import AVKit
+
 
 /**
  * Please read the Capacitor iOS Plugin Development Guide
